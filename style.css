@@ -1,0 +1,23 @@
+body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+#navbarNav ul li a{
+  color: white;
+  font-weight: lighter;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+  overflow: hidden; /* Menghilangkan overflow jika ada */
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section{
+  padding-top: 7rem;
+}
